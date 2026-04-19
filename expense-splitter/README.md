@@ -7,7 +7,7 @@ Built with a clean UI, real-time calculations, and smart insights to simplify gr
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here — Vercel/Netlify)*
+https://expense-splitter-xi-eight.vercel.app/
 
 ---
 
@@ -144,7 +144,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/expense-splitter.git
+git clone https://github.com/Roshani2505/expense-splitter
 
 # Navigate to project
 cd expense-splitter
@@ -169,7 +169,7 @@ Deploy easily on:
 
 ## 📹 Demo Video
 
-👉 *(Add your 5-minute demo video link here)*
+https://drive.google.com/file/d/1JTCavrmplabEhEgQAm3GPCC8kwNveQww/view?usp=sharing
 
 ---
 
